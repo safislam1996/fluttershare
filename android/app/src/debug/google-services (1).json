@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "208981787007",
+    "project_id": "fluttershare-44863",
+    "storage_bucket": "fluttershare-44863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208981787007:android:2832d70bd07238a2f45a4a",
+        "android_client_info": {
+          "package_name": "com.islamsafi.fluttershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208981787007-d4bpfst3do07tgirau9lbpg4coehqi45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.islamsafi.fluttershare",
+            "certificate_hash": "f4a23646bf288638469f5b9b7d6f899a80da0f3c"
+          }
+        },
+        {
+          "client_id": "208981787007-irpbttgri7k15b8e691rv4pf28h8gq7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVh1hZvuj11tamv1D9_cYaUHfYWAYhdT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208981787007-irpbttgri7k15b8e691rv4pf28h8gq7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
